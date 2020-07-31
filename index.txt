@@ -1,3 +1,4 @@
 echo "Hello git";
 echo "Hello git2";
 echo "Branch master";
+branch master
