@@ -5,3 +5,4 @@ echo "Hello new_f"
 echo "Branch master";
 branch master
 hello origin
+new changes in master
