@@ -4,3 +4,4 @@ echo "Hello new branch";
 echo "Hello new_f"
 echo "Branch master";
 branch master
+hello origin
